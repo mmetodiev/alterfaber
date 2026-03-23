@@ -241,10 +241,11 @@ h4 { font-size: 1rem; }
   gap: 32px;
 }
 
-.nav-logo img {
-  height: 36px;
-  width: auto;
-  object-fit: contain;
+.nav-logo {
+  font-size: 1.0625rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  color: #fff;
 }
 
 .nav-links {
@@ -828,10 +829,12 @@ input:focus, textarea:focus {
   margin-bottom: 40px;
 }
 
-.footer-logo img {
-  height: 32px;
-  width: auto;
-  object-fit: contain;
+.footer-wordmark {
+  display: block;
+  font-size: 0.9375rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  color: #fff;
   margin-bottom: 12px;
 }
 
