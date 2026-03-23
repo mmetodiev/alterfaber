@@ -148,15 +148,16 @@ a {
 
 /* ── Headings ─────────────────────────────────────────────── */
 h1, h2, h3, h4 {
-  line-height: 1.25;
-  font-weight: 700;
+  font-family: 'Barlow', 'Segoe UI', system-ui, sans-serif;
+  line-height: 1.2;
+  font-weight: 800;
   color: #fff;
 }
 
 h1 { font-size: clamp(2rem, 4vw, 3.25rem); }
 h2 { font-size: clamp(1.5rem, 3vw, 2.5rem); }
-h3 { font-size: 1.25rem; }
-h4 { font-size: 1rem; }
+h3 { font-size: 1.25rem; font-weight: 700; }
+h4 { font-size: 1rem; font-weight: 700; }
 
 /* ── Buttons ─────────────────────────────────────────────── */
 .btn {
@@ -242,8 +243,9 @@ h4 { font-size: 1rem; }
 }
 
 .nav-logo {
+  font-family: 'Barlow', 'Segoe UI', system-ui, sans-serif;
   font-size: 1.0625rem;
-  font-weight: 900;
+  font-weight: 800;
   letter-spacing: 0.14em;
   color: #fff;
 }
@@ -831,8 +833,9 @@ input:focus, textarea:focus {
 
 .footer-wordmark {
   display: block;
+  font-family: 'Barlow', 'Segoe UI', system-ui, sans-serif;
   font-size: 0.9375rem;
-  font-weight: 900;
+  font-weight: 800;
   letter-spacing: 0.14em;
   color: #fff;
   margin-bottom: 12px;
