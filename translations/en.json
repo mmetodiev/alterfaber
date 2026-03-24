@@ -1,0 +1,185 @@
+{
+  "nav": {
+    "services": "Services",
+    "equipment": "Equipment",
+    "events": "Events",
+    "cta": "Get in Touch"
+  },
+  "hero": {
+    "eyebrow": "Professional AV Support",
+    "title": "Audio Visual Support for Meetings, Exhibits & Events",
+    "subtitle": "Equipment rentals, installation, and on-site technical direction for stress-free shows and events.",
+    "body": "We provide professional audio visual support for meetings, trade shows, exhibits, conferences, and special events. From a simple breakout room to a multi-day program, we focus on clear sound, clear visuals, and a calm, dependable team behind the scenes.",
+    "cta_primary": "Request Support",
+    "cta_secondary": "Our Services"
+  },
+  "services": {
+    "label": "How We Help",
+    "title": "Simple, Reliable AV — From a Few Pieces of Gear to Full-Service Support",
+    "body": "Whether you need a few key pieces of gear or full-service event support, we keep the AV side simple and reliable so you can focus on running a great event.",
+    "rental": {
+      "title": "Equipment Rental",
+      "body": "Professional audio, video, and lighting rentals tailored to your meeting, exhibit, or special event. Sound, video, lighting, and accessories—delivered ready to use.",
+      "link": "Learn more"
+    },
+    "install": {
+      "title": "Install & Logistics",
+      "body": "We handle delivery, setup, and coordination so your AV just works when the event starts. Venue coordination, load-in and load-out, and room resets handled for you.",
+      "link": "Learn more"
+    },
+    "tech": {
+      "title": "Technical Direction",
+      "body": "Experienced technicians to plan cues, run the show, and troubleshoot behind the scenes. From straightforward meetings to multi-day programs, we keep everything on track.",
+      "link": "Learn more"
+    }
+  },
+  "equipment": {
+    "label": "Equipment Rental",
+    "title": "Professional AV Gear, Delivered Ready to Use",
+    "body": "Our audio visual equipment rentals provide the foundation for clear communication and engaging experiences at your events. We focus on reliable, up-to-date gear that simply works when you need it.",
+    "note": "You don't need to know model numbers or technical specs. Tell us about your room, audience size, and program—and we'll recommend a simple equipment package that fits your event.",
+    "what": "What We Provide",
+    "sound": {
+      "title": "Sound Systems & Microphones",
+      "body": "Podium mics, wireless handhelds, lavaliers, and full PA systems scaled to your room and audience."
+    },
+    "display": {
+      "title": "Displays & Projection",
+      "body": "Large-format screens, projectors, and LED displays for presentations and visual content."
+    },
+    "lighting": {
+      "title": "Lighting for Stages & Rooms",
+      "body": "Basic stage washes, podium lighting, and room accents to keep your speakers visible and well-lit."
+    },
+    "accessories": {
+      "title": "Accessories & Supporting Gear",
+      "body": "Cables, adapters, stands, confidence monitors, and everything in between to complete your setup."
+    }
+  },
+  "logistics": {
+    "label": "Install & Logistics",
+    "title": "We Handle Setup, So You Can Focus on Your Event",
+    "body": "We handle the details of delivery, setup, and strike so your AV is ready when doors open and gone when the event is over. Our team coordinates with your venue and manages every step of the process—from the first walkthrough to the final load-out.",
+    "note": "From hotel ballrooms and exhibit halls to corporate offices and unique venues, we adapt to your space and work smoothly with on-site staff.",
+    "venue": {
+      "title": "Venue Coordination",
+      "body": "We work directly with your venue contact to align on scheduling, access, and technical requirements ahead of event day."
+    },
+    "setup": {
+      "title": "Setup & Sound Check",
+      "body": "Efficient installation and a full sound check are completed before your audience arrives—no surprises at show time."
+    },
+    "teardown": {
+      "title": "Teardown & Strike",
+      "body": "End-of-event logistics handled cleanly and efficiently. We clear the room and leave the space exactly as we found it."
+    }
+  },
+  "technical": {
+    "label": "Technical Direction",
+    "title": "Your Calm, Experienced Partner on Event Day",
+    "body": "Our technical directors and on-site technicians guide you through the AV side of your event—from planning the run-of-show to calling cues and solving issues in real time. We're the steady presence behind the scenes that keeps everything moving forward.",
+    "handle": {
+      "title": "What We Handle",
+      "item1": "Pre-event planning and simple, easy-to-follow cue sheets",
+      "item2": "On-site operation of audio, video, and presentation playback",
+      "item3": "Real-time support and rapid troubleshooting throughout the program",
+      "item4": "Coordination with speakers, presenters, and venue staff"
+    },
+    "types": {
+      "title": "Events & Program Types",
+      "item1": "Single-room meetings and multi-day conferences",
+      "item2": "Breakout sessions and keynote presentations",
+      "item3": "Panel discussions, award programs, and general sessions",
+      "item4": "Small or large—we scale our team to your needs"
+    },
+    "tagline": "More than a rental company, we're a partner focused on making your event smooth, clear, and stress-free—from the first planning call to the final cue."
+  },
+  "events": {
+    "label": "Events We Support",
+    "title": "Dependable AV for Every Occasion",
+    "body": "We support a wide range of events that need dependable audio, video, and lighting—without the complexity. Whether you're organizing an intimate executive meeting or a large-scale multi-day conference, we design a straightforward AV plan that fits your event and your budget.",
+    "corporate": {
+      "title": "Corporate Meetings & Internal Events",
+      "body": "Town halls, all-hands meetings, board presentations, and internal team events that need clear sound and clean visuals."
+    },
+    "conferences": {
+      "title": "Conferences & Annual Meetings",
+      "body": "General sessions, keynotes, breakouts, and multi-day programs supported by an experienced on-site AV team."
+    },
+    "tradeshows": {
+      "title": "Trade Shows & Exhibits",
+      "body": "Booth displays, demo stations, and exhibit-hall presentations with reliable display and audio support throughout."
+    },
+    "sales": {
+      "title": "Sales Kickoffs & Trainings",
+      "body": "Roadshows, sales trainings, and product education sessions that need consistent, professional AV across multiple rooms or locations."
+    },
+    "press": {
+      "title": "Press Conferences & Product Launches",
+      "body": "Media events, press announcements, and product demonstrations where first impressions and technical reliability matter most."
+    },
+    "special": {
+      "title": "Special Events & Community Gatherings",
+      "body": "Award ceremonies, galas, fundraisers, and community events that deserve professional sound, lighting, and presentation support."
+    },
+    "cta": "If your event involves people speaking, presenting, or sharing visuals, we can help design a simple AV plan that fits. Not sure what you need? Just tell us about your event and we'll figure it out together."
+  },
+  "why": {
+    "label": "Why Choose Us",
+    "title": "From Boardrooms to Ballrooms, We've Got the AV Covered",
+    "body": "We provide AV rentals and event support for a wide range of business and community events. If your event needs clear sound, clear visuals, and a calm team handling the technical side, we can probably help.",
+    "technicians": {
+      "title": "Experienced Technicians",
+      "body": "Our team handles every detail on event day—from sound checks to last-minute adjustments—so you never have to worry about the AV side of your program."
+    },
+    "equipment": {
+      "title": "Reliable Equipment",
+      "body": "Well-maintained, up-to-date gear that performs when it matters most. We show up prepared so your event runs without a hitch."
+    },
+    "communication": {
+      "title": "Clear Communication",
+      "body": "Straightforward options and no technical jargon. We explain what you need in plain language and give you honest pricing upfront."
+    }
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "title": "Request Event Support",
+    "body1": "Tell us a bit about your upcoming event and we'll recommend a straightforward AV plan with clear pricing and next steps. No pressure, no jargon—just practical recommendations to make your event run smoothly.",
+    "body2": "Share your event type, date, venue, approximate attendance, and any AV priorities or concerns. We'll review the details and get back to you, usually within one business day.",
+    "step1": {
+      "title": "Tell Us About Your Event",
+      "body": "Share a few basic details—event type, date, venue, and audience size."
+    },
+    "step2": {
+      "title": "We Build a Simple AV Plan",
+      "body": "We review your needs and recommend the right equipment and staffing with clear, honest pricing."
+    },
+    "step3": {
+      "title": "We Handle the Rest",
+      "body": "From delivery and setup to on-site technical support, your AV is in good hands from start to finish."
+    },
+    "form": {
+      "title": "Ready to Get Started?",
+      "body": "Fill out the form below or reach out directly. We're happy to answer questions, discuss your event, and provide a no-obligation recommendation.",
+      "event_label": "Event Type & Date",
+      "venue_label": "Venue & Location",
+      "attendance_label": "Approximate Attendance",
+      "name_label": "Your Name",
+      "email_label": "Email Address",
+      "priorities_label": "AV Priorities or Concerns",
+      "submit": "Send Request",
+      "success": "Thanks! We'll review your details and be in touch within one business day."
+    }
+  },
+  "footer": {
+    "tagline": "Professional audio visual support for meetings, exhibits, and events.",
+    "nav": {
+      "services": "Services",
+      "equipment": "Equipment",
+      "events": "Events",
+      "why": "Why Us",
+      "contact": "Contact"
+    },
+    "copyright": "All rights reserved."
+  }
+}
