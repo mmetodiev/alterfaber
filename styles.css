@@ -57,7 +57,7 @@ a {
   --text-muted:   #9899b8;
   --border:       rgba(73, 80, 188, 0.25);
   --radius-sm:    6px;
-  --radius-md:    12px;
+  --radius-md:    6px;
   --radius-lg:    20px;
   --transition:   0.2s ease;
   --shadow:       0 4px 24px rgba(0,0,0,0.4);
@@ -286,29 +286,34 @@ h4 { font-size: 1rem; font-weight: 700; }
 .lang-switcher {
   display: flex;
   align-items: center;
-  gap: 4px;
   flex-shrink: 0;
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 4px;
+  overflow: hidden;
 }
 
 .lang-sep {
-  color: rgba(255,255,255,0.2);
-  font-size: 0.75rem;
-  user-select: none;
+  display: none;
 }
 
 .lang-btn {
-  background: none;
+  background: transparent;
   border: none;
+  border-left: 1px solid rgba(255,255,255,0.18);
   cursor: pointer;
   font-family: inherit;
-  font-size: 0.75rem;
+  font-size: 0.6875rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
   color: var(--text-muted);
-  padding: 4px 6px;
-  border-radius: 4px;
-  transition: color var(--transition), background var(--transition);
+  padding: 5px 10px;
   line-height: 1;
+  transition: color var(--transition), background var(--transition);
+}
+
+.lang-btn:first-child {
+  border-left: none;
 }
 
 .lang-btn:hover {
@@ -317,6 +322,7 @@ h4 { font-size: 1rem; font-weight: 700; }
 }
 
 .lang-btn.active {
+  background: rgba(255,255,255,0.12);
   color: #fff;
 }
 
