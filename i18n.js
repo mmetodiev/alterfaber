@@ -1,5 +1,5 @@
 const SUPPORTED_LANGS = ['en', 'bg'];
-const DEFAULT_LANG = 'en';
+const DEFAULT_LANG = 'bg';
 
 const cache = {};
 let currentLang = DEFAULT_LANG;
@@ -54,6 +54,8 @@ async function setLanguage(lang, pushURL = true) {
   localStorage.setItem('preferredLang', lang);
   if (pushURL) updateURL(lang);
   applyTranslations(t);
+  const docTitle = resolve(t, 'meta.title');
+  if (docTitle) document.title = docTitle;
   document.documentElement.lang = lang;
   updateSwitcher(lang);
 }
