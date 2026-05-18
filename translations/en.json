@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Alterfaber — Audio Visual Support for Events"
+    "title": "Alterfaber Sofia — Projector & AV Equipment Hire for Art Exhibitions in Bulgaria"
   },
   "nav": {
     "services": "Services",
@@ -9,173 +9,173 @@
     "cta": "Get in Touch"
   },
   "hero": {
-    "eyebrow": "Professional AV Support",
-    "title": "Audio Visual Support for The Fine Art World",
-    "subtitle": "Equipment rentals, installation, and on-site technical direction for stress-free shows and events.",
-    "body": "We provide professional audio visual support for fine art exhibitions, performances and installations. From a single work display to a institution wide tour de force, we can handle any event.",
-    "cta_primary": "Request Support",
+    "eyebrow": "AV Equipment Hire in Sofia, Bulgaria",
+    "title": "Projector & Display Hire for Fine Art Exhibitions in Sofia",
+    "subtitle": "Projector rental, screen hire, and on-site technical support for galleries, museums, and art events across Sofia and Bulgaria.",
+    "body": "We provide professional AV equipment hire for fine art exhibitions, performances, and installations in Sofia and across Bulgaria. From single-work projector rentals to institution-wide multimedia displays, we supply and install the right gear for any scale.",
+    "cta_primary": "Request a Quote",
     "cta_secondary": "Our Services"
   },
   "services": {
     "label": "How We Help",
-    "title": "Simple, Reliable AV — From a Few Pieces of Gear to Full Production Support",
-    "body": "Whether you need a few key pieces of gear or full-service exhibition support, we keep the AV side simple and reliable so you can focus on the art.",
+    "title": "AV Equipment Hire & Technical Support for Exhibitions in Sofia and Bulgaria",
+    "body": "Whether you need a single projector rental or full-service AV support for a large exhibition in Sofia, we keep the technical side simple and reliable so you can focus on the art.",
     "rental": {
-      "title": "Equipment Rental",
-      "body": "Professional audio, video, and lighting rentals tailored to your exhibition, installation or performance. Projectors, screens, sound systems and accessories—delivered ready to use.",
+      "title": "Equipment Hire",
+      "body": "Projector hire, screen rental, display hire, and audio equipment for exhibitions, installations, and performances in Sofia and across Bulgaria. All gear delivered, installed, and ready to use.",
       "link": "Learn more"
     },
     "install": {
       "title": "Install & Logistics",
-      "body": "We handle delivery, setup, and coordination so your AV just works when you need it to. Venue coordination, load-in and load-out, and room resets handled for you.",
+      "body": "We handle delivery, rigging, and installation at galleries and venues across Sofia so your AV is ready when the show opens. Load-in, load-out, and equipment resets all handled for you.",
       "link": "Learn more"
     },
     "tech": {
       "title": "Technical Direction",
-      "body": "Experienced technicians to plan your setup, ensure attending staff is up to speed, and troubleshoot behind the scenes. From straightforward presentations to career-spanning retrospectives, we keep everything on track.",
+      "body": "Experienced AV technicians based in Sofia to plan your setup, brief gallery staff, and troubleshoot on-site. From single-room projections to career-spanning retrospectives, we keep everything running.",
       "link": "Learn more"
     }
   },
   "equipment": {
-    "label": "Equipment Rental",
-    "title": "Professional AV Gear, Delivered Ready to Use",
-    "body": "Our audio visual equipment rentals provide the foundation for flawless technical performance at your exhibition or installation. From cutting edge laser projectors, IOT connected devices and AI-powered installations to arcane vintage CRTs and tube amps, we have you covered.",
-    "note": "You don't need to know model numbers or technical specs. Tell us about your idea and space and we'll recommend a efficient equipment package that fits your event.",
-    "what": "What We Provide",
+    "label": "Equipment Hire",
+    "title": "Projectors, Screens & Displays for Hire in Sofia — Delivered Ready to Use",
+    "body": "We supply professional AV equipment hire for galleries, museums, and art spaces in Sofia and Bulgaria. From high-brightness laser projectors and LED screens to vintage CRTs and specialist audio, we source the right equipment for your exhibition or installation.",
+    "note": "You don't need to know model numbers or technical specs. Tell us about your space and artwork and we'll recommend the right equipment package for your project in Sofia.",
+    "what": "Equipment Available for Hire",
     "display": {
-      "title": "Projectors & Screens",
-      "body": "Laser or LED projectors, screens and displays for your exhibition or installation."
+      "title": "Projector Hire & Screen Rental",
+      "body": "Short-throw and long-throw laser projectors, 4K projectors, projection screens, and large-format LED displays for exhibitions, installations, and gallery spaces in Sofia and across Bulgaria."
     },
     "lighting": {
-      "title": "Vintage & Obscure Equipment",
-      "body": "We work with leading rental houses and private collectors to supply you with CRTs, tube amps, vintage cameras and any other piece of obscure equipment you might ever need."
+      "title": "Vintage & Specialist Equipment",
+      "body": "CRT monitors, tube amplifiers, vintage cameras, and other specialist or obscure equipment sourced from leading rental houses and private collectors."
     },
     "accessories": {
-      "title": "Accessories & Supporting Gear",
-      "body": "Cables, adapters, stands, monitors, and everything in between to complete your setup."
+      "title": "Cables, Mounts & Supporting Gear",
+      "body": "HDMI and signal cables, projector mounts, display stands, media players, and everything needed to ensure a clean, safe, and compliant installation."
     },
     "sound": {
-      "title": "Sound Systems & Microphones",
-      "body": "Speakers, microphones, amplifiers and other audio equipment to complete your setup."
+      "title": "Audio Equipment Hire",
+      "body": "Speakers, amplifiers, microphones, and audio playback systems for sound installations, performances, and exhibition spaces in Sofia."
     }
   },
   "logistics": {
     "label": "Installation & Logistics",
-    "title": "We Handle Setup, So You Can Focus on the Art",
-    "body": "We handle the details of delivery, setup, and strike so your AV is ready when you need it to. Our team coordinates with your venue and manages every step of the process—from the first walkthrough to the final load-out.",
-    "note": "From boutique gallery spaces through museums and institutions to unique venues, we adapt to your space and work smoothly with on-site staff.",
+    "title": "We Handle the Install Across Sofia, So You Can Focus on the Art",
+    "body": "We manage delivery, installation, and derig at venues across Sofia and Bulgaria so your AV equipment is operational when the doors open and gone cleanly when the show closes. We coordinate directly with your gallery or venue and handle every step from first walkthrough to final load-out.",
+    "note": "From boutique gallery spaces and pop-up sites in Sofia's city centre to museums, institutions, and venues across Bulgaria, we adapt to your space and work closely with on-site staff.",
     "venue": {
-      "title": "Venue Coordination",
-      "body": "We work directly with your venue contact to align on scheduling, access, and technical requirements ahead of your event."
+      "title": "Gallery & Venue Coordination",
+      "body": "We liaise directly with your gallery or venue manager in Sofia to align on scheduling, access, and technical requirements before installation day."
     },
     "setup": {
-      "title": "Setup & Sound Check",
-      "body": "Efficient installation and a full sound check are completed before your event starts—no surprises at show time."
+      "title": "Installation & Testing",
+      "body": "Full equipment installation and testing completed before your opening — correct alignment, calibrated brightness, and clean signal confirmed before any audience arrives."
     },
     "teardown": {
-      "title": "Teardown & Strike",
-      "body": "End-of-event logistics handled cleanly and efficiently. We clear the room and leave the space exactly as we found it. Onward artwork shipment can be handled as well."
+      "title": "Derig & Strike",
+      "body": "End-of-show logistics handled cleanly and efficiently. We remove all equipment and leave the space exactly as we found it. Onward artwork shipment within Bulgaria or internationally can be arranged as well."
     }
   },
   "technical": {
     "label": "Technical Direction",
-    "title": "Your Calm, Experienced Partner on Location",
-    "body": "Our technical directors and on-site technicians guide you through the AV side of your project — from establishing the kit list to installation and real time problem solving. We're the steady presence behind the scenes that keeps everything running smoothly.",
+    "title": "Your Calm, Experienced AV Partner in Sofia",
+    "body": "Our technical directors and on-site AV technicians are based in Sofia and manage the equipment side of your project — from building the kit list and specifying projectors and displays to installation, calibration, and real-time problem solving throughout the run.",
     "handle": {
       "title": "What We Handle",
-      "item1": "Pre-event planning and simple, easy-to-follow cue sheets",
-      "item2": "On-site operation of audio, video, and presentation playback",
-      "item3": "Real-time support and rapid troubleshooting throughout the program",
-      "item4": "Coordination with speakers, presenters, and venue staff"
+      "item1": "Equipment specification and pre-show planning with clear instruction sheets for gallery staff",
+      "item2": "On-site installation and operation of projectors, displays, and audio playback",
+      "item3": "Real-time technical support and troubleshooting throughout the exhibition",
+      "item4": "Load-in and load-out logistics in Sofia, including packing and onward shipment"
     },
     "types": {
-      "title": "Events & Program Types",
-      "item1": "Single-room meetings and multi-day conferences",
-      "item2": "Breakout sessions and keynote presentations",
-      "item3": "Panel discussions, award programs, and general sessions",
-      "item4": "Small or large—we scale our team to your needs"
+      "title": "Exhibition Types & Venues",
+      "item1": "Fine art exhibitions and multimedia installations in Sofia galleries",
+      "item2": "Dedicated gallery spaces and one-off or site-specific venues across Bulgaria",
+      "item3": "Long-run exhibitions and single-night performances",
+      "item4": "Intimate single-work displays or large multi-artist group shows"
     },
-    "tagline": "More than a rental company, we're a partner focused on making your event smooth, clear, and stress-free—from the first planning call to the final cue."
+    "tagline": "More than an equipment hire company — we're a Sofia-based technical partner focused on making your exhibition or performance run smoothly from first install to final derig."
   },
   "events": {
     "label": "Events We Support",
-    "title": "Dependable AV for Every Occasion",
-    "body": "We support a wide range of events that need dependable audio, video, and lighting—without the complexity. Whether you're organizing an intimate executive meeting or a large-scale multi-day conference, we design a straightforward AV plan that fits your event and your budget.",
+    "title": "AV Equipment Hire for Art & Culture Events in Sofia and Bulgaria",
+    "body": "We supply and install AV equipment for art and culture events across Sofia and Bulgaria. Whether you're planning an intimate single-work display or a large multi-artist group show, we'll put together a straightforward equipment package that fits your project and budget.",
     "corporate": {
-      "title": "Corporate Meetings & Internal Events",
-      "body": "Town halls, all-hands meetings, board presentations, and internal team events that need clear sound and clean visuals."
+      "title": "Fine Art Exhibitions",
+      "body": "Projector hire, screen rental, and display solutions for photographic projections, video art, slide shows, and multimedia exhibitions in Sofia galleries and art spaces across Bulgaria."
     },
     "conferences": {
-      "title": "Conferences & Annual Meetings",
-      "body": "General sessions, keynotes, breakouts, and multi-day programs supported by an experienced on-site AV team."
+      "title": "Film Screenings & Projections",
+      "body": "High-quality projection hire and audio setup for film screenings, moving image works, and video installations at any scale in Sofia or elsewhere in Bulgaria."
     },
     "tradeshows": {
-      "title": "Trade Shows & Exhibits",
-      "body": "Booth displays, demo stations, and exhibit-hall presentations with reliable display and audio support throughout."
+      "title": "Performance Art & Live Events",
+      "body": "AV equipment hire and on-site technical support for live performance art, sound performances, and experimental events in Sofia and beyond."
     },
     "sales": {
-      "title": "Sales Kickoffs & Trainings",
-      "body": "Roadshows, sales trainings, and product education sessions that need consistent, professional AV across multiple rooms or locations."
+      "title": "Scenography & Stage Design",
+      "body": "Projection mapping, display hire, and multimedia AV support for theatre productions, concerts, and performance design across Sofia's venues and stages."
     },
     "press": {
-      "title": "Press Conferences & Product Launches",
-      "body": "Media events, press announcements, and product demonstrations where first impressions and technical reliability matter most."
+      "title": "Press Previews & Private Views",
+      "body": "Reliable AV setup for press events, opening nights, and private views at galleries and cultural spaces in Sofia."
     },
     "special": {
-      "title": "Special Events & Community Gatherings",
-      "body": "Award ceremonies, galas, fundraisers, and community events that deserve professional sound, lighting, and presentation support."
+      "title": "Art Fairs & Cultural Events",
+      "body": "Display hire and AV support for art fairs, community exhibitions, and cultural gatherings in Sofia and across Bulgaria."
     },
-    "cta": "If your event involves people speaking, presenting, or sharing visuals, we can help design a simple AV plan that fits. Not sure what you need? Just tell us about your event and we'll figure it out together."
+    "cta": "If your project in Sofia or Bulgaria involves projecting, displaying, or playing back digital work, we can put together a simple equipment hire package that fits. Not sure what you need? Tell us about your space and artwork and we'll figure it out."
   },
   "why": {
     "label": "Why Choose Us",
-    "title": "From Boardrooms to Ballrooms, We've Got the AV Covered",
-    "body": "We provide AV rentals and event support for a wide range of business and community events. If your event needs clear sound, clear visuals, and a calm team handling the technical side, we can probably help.",
+    "title": "Sofia's AV Partner for Fine Art — From Gallery Spaces to Site-Specific Installations",
+    "body": "We specialise in AV equipment hire and technical support for the fine art world in Sofia and Bulgaria. If your exhibition needs reliable projectors, screens, or displays installed by people who understand art spaces, we're the team to call.",
     "technicians": {
-      "title": "Experienced Technicians",
-      "body": "Our team handles every detail on event day—from sound checks to last-minute adjustments—so you never have to worry about the AV side of your program."
+      "title": "Sofia-Based AV Technicians",
+      "body": "Our team is based in Sofia and handles every detail of the installation — from projector alignment and screen rigging to last-minute adjustments — so you never have to worry about the technical side of your show."
     },
     "equipment": {
-      "title": "Reliable Equipment",
-      "body": "Well-maintained, up-to-date gear that performs when it matters most. We show up prepared so your event runs without a hitch."
+      "title": "Reliable, Well-Maintained Gear",
+      "body": "Up-to-date projectors, displays, and audio equipment maintained to a professional standard. We arrive prepared so your exhibition in Sofia opens without a hitch."
     },
     "communication": {
-      "title": "Clear Communication",
-      "body": "Straightforward options and no technical jargon. We explain what you need in plain language and give you honest pricing upfront."
+      "title": "Clear, Jargon-Free Communication",
+      "body": "No technical jargon, no confusing spec sheets. We explain your options in plain language and give you honest, transparent pricing from the start."
     }
   },
   "contact": {
     "label": "Get in Touch",
-    "title": "Request Event Support",
-    "body1": "Tell us a bit about your upcoming event and we'll recommend a straightforward AV plan with clear pricing and next steps. No pressure, no jargon—just practical recommendations to make your event run smoothly.",
-    "body2": "Share your event type, date, venue, approximate attendance, and any AV priorities or concerns. We'll review the details and get back to you, usually within one business day.",
+    "title": "Request a Quote for Equipment Hire in Sofia",
+    "body1": "Tell us about your exhibition or event in Sofia or Bulgaria and we'll recommend a straightforward AV equipment package with clear pricing. No pressure, no jargon — just practical recommendations to make your show run smoothly.",
+    "body2": "Share your event type, dates, venue in Sofia or elsewhere in Bulgaria, and any specific equipment or technical requirements. We'll review the details and get back to you, usually within one business day.",
     "step1": {
-      "title": "Tell Us About Your Event",
-      "body": "Share a few basic details—event type, date, venue, and audience size."
+      "title": "Tell Us About Your Project",
+      "body": "Share a few basic details — exhibition type, dates, your venue in Sofia, and any equipment you know you need."
     },
     "step2": {
-      "title": "We Build a Simple AV Plan",
-      "body": "We review your needs and recommend the right equipment and staffing with clear, honest pricing."
+      "title": "We Recommend an Equipment Package",
+      "body": "We review your space and requirements and recommend the right projectors, screens, and supporting gear with clear, honest pricing."
     },
     "step3": {
       "title": "We Handle the Rest",
-      "body": "From delivery and setup to on-site technical support, your AV is in good hands from start to finish."
+      "body": "From delivery and installation across Sofia to on-site technical support and derig, your AV is in safe hands from start to finish."
     },
     "form": {
       "title": "Ready to Get Started?",
-      "body": "Fill out the form below or reach out directly. We're happy to answer questions, discuss your event, and provide a no-obligation recommendation.",
-      "event_label": "Event Type & Date",
-      "venue_label": "Venue & Location",
+      "body": "Fill out the form below or reach out directly. We're happy to discuss your project in Sofia, answer technical questions, and provide a no-obligation equipment hire quote.",
+      "event_label": "Event Type & Dates",
+      "venue_label": "Venue & Location in Sofia",
       "attendance_label": "Approximate Attendance",
       "name_label": "Your Name",
       "email_label": "Email Address",
-      "priorities_label": "AV Priorities or Concerns",
-      "submit": "Send Request",
+      "priorities_label": "Equipment Needs or Technical Requirements",
+      "submit": "Request a Quote",
       "success": "Thanks! We'll review your details and be in touch within one business day."
     }
   },
   "footer": {
-    "tagline": "Professional audio visual support for meetings, exhibits, and events.",
+    "tagline": "Projector hire, screen rental, and AV support for fine art exhibitions in Sofia and Bulgaria.",
     "nav": {
       "services": "Services",
       "equipment": "Equipment",
