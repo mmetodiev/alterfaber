@@ -389,33 +389,36 @@
       <div class="contact-form-wrap">
         <h3 data-i18n="contact.form.title">Ready to Get Started?</h3>
         <p data-i18n="contact.form.body">Fill out the form below or reach out directly. We're happy to discuss your project in Sofia, answer technical questions, and provide a no-obligation equipment hire quote.</p>
-        <form class="contact-form" onsubmit="handleFormSubmit(event)">
+        <form class="contact-form" action="https://formspree.io/f/mkjnrbde" method="POST" novalidate>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="form-honeypot">
+          <input type="hidden" name="_subject" value="New quote request — alterfaber.com">
           <div class="form-grid">
             <div class="form-group">
               <label for="event-type" data-i18n="contact.form.event_label">Event Type &amp; Dates</label>
-              <input type="text" id="event-type" name="event-type" placeholder="What kind of event, and when is it?">
+              <input type="text" id="event-type" name="event_type" required autocomplete="off" placeholder="What kind of event, and when is it?">
             </div>
             <div class="form-group">
               <label for="venue" data-i18n="contact.form.venue_label">Venue &amp; Location in Sofia</label>
-              <input type="text" id="venue" name="venue" placeholder="Where will the event take place?">
+              <input type="text" id="venue" name="venue" autocomplete="off" placeholder="Where will the event take place?">
             </div>
             <div class="form-group">
               <label for="attendance" data-i18n="contact.form.attendance_label">Approximate Attendance</label>
-              <input type="text" id="attendance" name="attendance" placeholder="How many people are you expecting?">
+              <input type="text" id="attendance" name="attendance" autocomplete="off" placeholder="How many people are you expecting?">
             </div>
             <div class="form-group">
               <label for="name" data-i18n="contact.form.name_label">Your Name</label>
-              <input type="text" id="name" name="name" placeholder="Your full name">
+              <input type="text" id="name" name="name" required autocomplete="name" placeholder="Your full name">
             </div>
             <div class="form-group">
               <label for="email" data-i18n="contact.form.email_label">Email Address</label>
-              <input type="email" id="email" name="email" placeholder="your@email.com">
+              <input type="email" id="email" name="email" required autocomplete="email" placeholder="your@email.com">
             </div>
             <div class="form-group form-group-full">
               <label for="priorities" data-i18n="contact.form.priorities_label">Equipment Needs or Technical Requirements</label>
-              <textarea id="priorities" name="priorities" rows="4" placeholder="Anything specific you need or want to flag upfront?"></textarea>
+              <textarea id="priorities" name="priorities" rows="4" autocomplete="off" placeholder="Anything specific you need or want to flag upfront?"></textarea>
             </div>
           </div>
+          <div class="form-error" id="form-error" role="alert" hidden></div>
           <button type="submit" class="btn btn-primary btn-submit" data-i18n="contact.form.submit">Request a Quote</button>
         </form>
         <div class="form-success" id="form-success" hidden>
@@ -450,6 +453,7 @@
     </div>
   </footer>
 
+  <script src="form-config.js"></script>
   <script src="i18n.js"></script>
   <script src="main.js"></script>
 </body>

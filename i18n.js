@@ -58,7 +58,12 @@ async function setLanguage(lang, pushURL = true) {
   if (docTitle) document.title = docTitle;
   document.documentElement.lang = lang;
   updateSwitcher(lang);
+  window.dispatchEvent(new CustomEvent('languagechange', { detail: { lang } }));
 }
+
+window.getI18n = function (key) {
+  return resolve(cache[currentLang], key) ?? resolve(cache.en, key) ?? key;
+};
 
 async function initI18n() {
   const lang = getLangFromURL()

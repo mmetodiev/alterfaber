@@ -171,7 +171,11 @@
       "email_label": "Email Address",
       "priorities_label": "Equipment Needs or Technical Requirements",
       "submit": "Request a Quote",
-      "success": "Thanks! We'll review your details and be in touch within one business day."
+      "sending": "Sending…",
+      "success": "Thanks! We'll review your details and be in touch within one business day.",
+      "error_required": "Please fill in all required fields.",
+      "error_send": "Something went wrong. Please try again or email us directly.",
+      "error_not_configured": "The contact form is not configured yet. Please email us directly."
     }
   },
   "footer": {
